@@ -19,3 +19,18 @@
     color: #4aaaa5;
 }
 
+.card {
+    margin-bottom:20px;
+}
+
+div.card-body {
+    padding:0.4rem;
+    text-align:center;
+    background-color:#4aaaa5;
+}
+
+h5.card-title {
+    margin-top:0.25rem;
+    margin-bottom:0.25rem;
+    color: #ffffff;
+}
