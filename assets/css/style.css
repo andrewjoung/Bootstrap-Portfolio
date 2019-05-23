@@ -34,3 +34,8 @@ h5.card-title {
     margin-bottom:0.25rem;
     color: #ffffff;
 }
+
+#submitButton {
+    background-color:#4aaaa5;
+    border-color:#4aaaa5;
+}
