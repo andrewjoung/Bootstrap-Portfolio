@@ -43,11 +43,15 @@ h5.card-title {
 
 .container-fluid {
     background-color:#777777;
-    height:200px;
+    height:150px;
     text-align:center;
 }
 
 .container-fluid p {
     padding-top:15px;
     color: #ffffff;
+}
+
+.push {
+    height:100px;
 }
