@@ -1,0 +1,21 @@
+#mainContent {
+    height:fit-content;
+    background-image:url("../images/crossline-lines.png");
+    padding-top:20px;
+}
+
+#selfPortrait {
+    width: 250px;
+    height: 200px;
+    float:left;
+    margin-right:15px;
+}
+
+.jumbotron, .bg-light {
+    background-color:#ffffff!important;
+}
+
+.jumboHeader, span.navbar-brand.mb-0.h1 {
+    color: #4aaaa5;
+}
+
